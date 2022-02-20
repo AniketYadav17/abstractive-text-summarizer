@@ -15,10 +15,15 @@ Create a virtual environment and install the dependencies.
   pip install -r requirements.txt
 ```
     
-## Demo
+<!-- ## Demo
 
+<<<<<<< HEAD
 https://text-summary-01.herokuapp.com/
 
+=======
+https://github.com/AniketYadav17/abstractive-text-summarizer
+ -->
+>>>>>>> ede0d7ba814d5dabd957608fc213ac795baaffa5
 
 ## Screenshots 
 
