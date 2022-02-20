@@ -22,5 +22,5 @@ https://github.com/AniketYadav17/abstractive-text-summarizer
 
 ## Screenshots
 
-![App Screenshot](static/images/SS.png?raw=true)
+![App Screenshot](static/images/SS1.png?raw=true)
 
