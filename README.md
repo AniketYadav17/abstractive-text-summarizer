@@ -22,5 +22,5 @@ https://github.com/AniketYadav17/abstractive-text-summarizer
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/[aniketydv]/[abstractive-text-summarizer]/blob/[main]/static/images/Screenshot 2022-02-21 at 00-39-25 Data Summarization.png/image.jpg?raw=true)
 
