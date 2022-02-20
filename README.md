@@ -15,10 +15,10 @@ Create a virtual environment and install the dependencies.
   pip install -r requirements.txt
 ```
     
-## Demo
+<!-- ## Demo
 
 https://github.com/AniketYadav17/abstractive-text-summarizer
-
+ -->
 
 ## Screenshots 
 
