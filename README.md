@@ -17,7 +17,7 @@ Create a virtual environment and install the dependencies.
     
 ## Demo
 
-https://github.com/AniketYadav17/abstractive-text-summarizer
+https://text-summary-01.herokuapp.com/
 
 
 ## Screenshots 
