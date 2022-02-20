@@ -20,7 +20,7 @@ Create a virtual environment and install the dependencies.
 https://github.com/AniketYadav17/abstractive-text-summarizer
 
 
-## Screenshots
+## Screenshots 
 
 ![App Screenshot](static/images/SS.png?raw=true)
 
